@@ -1,3 +1,3 @@
 # Email-Accounts
-Basic email administrator
-Uploaded to practice using Git
+Basic email administrator,
+uploaded to practice using Git
